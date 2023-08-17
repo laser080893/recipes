@@ -3,4 +3,5 @@ avocado
 lime
 salt
 Instructions
+smash all the ingredients
 
